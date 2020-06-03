@@ -1,0 +1,10 @@
+﻿  Menu.cpp
+C:\Users\Pulkit\source\repos\assignment1\assignment1\Text.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Pulkit\source\repos\assignment1\assignment1\Menu.cpp(23,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Pulkit\source\repos\assignment1\assignment1\Menu.cpp(50,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Pulkit\source\repos\assignment1\assignment1\Menu.cpp(69,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Pulkit\source\repos\assignment1\assignment1\Menu.cpp(138,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Pulkit\source\repos\assignment1\assignment1\Menu.cpp(169,28): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Pulkit\source\repos\assignment1\assignment1\Menu.cpp(297,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Pulkit\source\repos\assignment1\assignment1\Menu.cpp(56): warning C4715: 'Menu::operator=': not all control paths return a value
+  assignment1.vcxproj -> C:\Users\Pulkit\source\repos\assignment1\Debug\assignment1.exe
